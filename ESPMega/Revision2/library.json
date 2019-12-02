@@ -19,5 +19,9 @@
 "frameworks" : "*",
 "platforms": "*",
 "dependencies": {
-    "Adafruit MCP23017 Arduino Library": "1.0.6"
+    "Adafruit MCP23017 Arduino Library": "1.0.6",
+    "I2Cdevlib-ADS1115": "3b4c8bda90",
+    "PubSubClient": "2.7",
+    "PubSubClientTools": "0.6",
+    "Thread": "1a4e504c5f"
     }
