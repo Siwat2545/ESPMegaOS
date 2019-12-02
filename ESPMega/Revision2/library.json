@@ -1,4 +1,7 @@
 {
+  "name": "ESPMegaR2",
+  "keywords": "espmega, adc, sensor, thread, i2c",
+  "description": "Library to interface with ESPMega Command Layer",
   "authors": [
     {
       "name": "Siwat Sirichai",
@@ -7,13 +10,13 @@
       "maintainer": true
     }
   ],
+  "include": "ESPMega/Revision2",
   "repository": {
     "type": "git",
-    "url": "https://github.com/foo/bar.git"
+    "url": "https://github.com/Siwat2545/ESPMegaOS.git"
   },
   "version": "1.0.0",
   "license": "Apache-2.0",
-  "downloadUrl": "https://github.com/foo/bar/archive/v1.0.0.tar.gz",
   "frameworks": "*",
   "platforms": "*",
   "dependencies": {
