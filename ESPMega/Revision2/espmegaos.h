@@ -4,3 +4,4 @@
 #include emrom.h
 #include empowerpak.h
 #include emcomm.h
+#include emrtos
