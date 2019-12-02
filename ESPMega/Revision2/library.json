@@ -1,27 +1,26 @@
-"authors":
-[
-    {
-        "name": "Siwat Sirichai",
-        "email": "siwat@siwatinc.com",
-        "url": "https://siwatinc.com",
-        "maintainer": true
-    }
-],
-"repository":
 {
+  "authors": [
+    {
+      "name": "Siwat Sirichai",
+      "email": "siwat@siwatinc.com",
+      "url": "https://siwatinc.com",
+      "maintainer": true
+    }
+  ],
+  "repository": {
     "type": "git",
     "url": "https://github.com/foo/bar.git"
-},
-"version": "1.0.0",
-"license": "Apache-2.0",
-"version": "1.0.0",
-"downloadUrl": "https://github.com/foo/bar/archive/v1.0.0.tar.gz",
-"frameworks" : "*",
-"platforms": "*",
-"dependencies": {
+  },
+  "version": "1.0.0",
+  "license": "Apache-2.0",
+  "downloadUrl": "https://github.com/foo/bar/archive/v1.0.0.tar.gz",
+  "frameworks": "*",
+  "platforms": "*",
+  "dependencies": {
     "Adafruit MCP23017 Arduino Library": "1.0.6",
     "I2Cdevlib-ADS1115": "3b4c8bda90",
     "PubSubClient": "2.7",
     "PubSubClientTools": "0.6",
     "Thread": "1a4e504c5f"
-    }
+  }
+}
