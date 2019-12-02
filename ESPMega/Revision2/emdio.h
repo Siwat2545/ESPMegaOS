@@ -1,8 +1,8 @@
 #include <Adafruit_MCP23017.h>
 class DigitalIO {
     public:
-        AD7746();
-        AD7746(uint8_t address);
+        DigitalIO();
+        DigitalIO(uint8_t address);
 
         void initialize();
         void pullup(int pin);
